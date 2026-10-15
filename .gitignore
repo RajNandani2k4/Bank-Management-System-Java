@@ -4,4 +4,4 @@ dist/
 hs_err_pid*.log
 replay_pid*.log
 nbproject/private/
-src/bank/management/system/Conn.java
+db.properties
